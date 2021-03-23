@@ -62,7 +62,7 @@ public class MainActivity extends AppCompatActivity {
         });
 
     }
-
+// on click botão procurar
     public void requestApiButtonClick(View v){
         url = MarvelEntries();
         MarvelRequest dictionaryRequest =  new MarvelRequest(this);
