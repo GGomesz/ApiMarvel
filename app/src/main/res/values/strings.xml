@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Marvelzinha</string>
+    <string name="btn_all">Historico</string>
+    <string name="btn_search">Procurar</string>
+    <string name="btn_view">Salvar</string>
+    <string name="plain_word">Digite o nome do heroi:</string>
+</resources>
