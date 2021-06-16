@@ -61,7 +61,7 @@ public class DataBase extends SQLiteOpenHelper {
 
             }while (cursor.moveToNext());
         }
-        else{
+        else{// sexo
 
         }
         cursor.close();
